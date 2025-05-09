@@ -1,5 +1,6 @@
 # This is my e-commerce website for my final week 8 assignment
-#Link to my website using netlify https://magnificent-trifle-9ee98d.netlify.app/
+#Link to my website using netlify https://magnificent-trifle-9ee98d.netlify.app/ and
+https://plp-webtechnologies.github.io/uyi-final-week-8-web-development-project/ 
 
 Elegance — Static eCommerce Site
 Elegance is a lightweight, responsive e-commerce front-end built with plain HTML, CSS, and JavaScript—no frameworks or build tools required.
